@@ -1,14 +1,5 @@
 # About Me
 
-## Name
-
-Rizalie Rodel
-
-## Course
-
-BSIT
-
-## About Me
-
-I am a BSIT student who is interested in learning about cloud computing, Linux, and different technologies. I want to improve my technical skills and gain more experience in using cloud platforms.
-
+My name is Rizalie Rodel.
+I am a student currently studying Information Technology.
+I am learning about Cloud Computing, Linux, and GitHub.
