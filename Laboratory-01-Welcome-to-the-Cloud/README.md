@@ -11,6 +11,7 @@ This laboratory activity introduced me to the Linux cloud environment and basic 
 * Check basic system information.
 * Create and organize files and folders.
 * Use GitHub to store and manage laboratory files.
+* Document technical activities using Markdown.
 
 ## Activities Performed
 
@@ -20,7 +21,9 @@ This laboratory activity introduced me to the Linux cloud environment and basic 
 * Gathered Linux system information such as the distribution, kernel, CPU, memory, and disk space.
 * Created folders and Markdown files in the home directory.
 * Created and organized the laboratory portfolio in GitHub.
-* Uploaded screenshots as documentation of the activities.
+* Created the required documentation files for the laboratory.
+* Uploaded screenshots for Checkpoints 1–7 as evidence of the completed activities.
+* Reviewed the repository structure and completed the final mission requirements.
 
 ## Linux Commands Used
 
@@ -50,3 +53,4 @@ sudo
 * Using Markdown files.
 * Managing a GitHub repository.
 * Organizing and documenting cloud computing laboratory activities.
+* Practicing basic cloud computing and Linux environment skills.
