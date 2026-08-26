@@ -70,7 +70,3 @@ The following screenshots were captured during the investigation:
 - `screenshots/storage-information.png`
 
 ---
-
-**Prepared by:** *(Ilagay ang iyong pangalan)*  
-**Course:** CCM101 – Cloud Computing  
-**Date:** *(Ilagay ang kasalukuyang petsa)*
