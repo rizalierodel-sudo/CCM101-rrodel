@@ -7,7 +7,6 @@
 **Importance in Cloud Computing:** Compute resources are the backbone of cloud services—they process data, run applications, and execute user requests. Without compute resources, no workloads can be deployed or managed in the cloud. They provide the scalability to handle varying workloads, allowing organizations to scale up or down based on demand.
 
 **Relation to the KillerCoda Linux Environment:** In the KillerCoda environment, I identified the following compute resources:
-
 - **CPU Model:** Intel Xeon E312xx (Sandy Bridge, IBRS update) @ 2.0GHz
 - **Number of CPU Cores:** 1 core
 - **Total RAM:** 1.9Gi
@@ -26,7 +25,6 @@ These compute resources were identified using Linux commands such as `lscpu` and
 **Importance in Cloud Computing:** Storage is critical for data persistence, disaster recovery, and scalability. Cloud storage allows organizations to store and retrieve massive amounts of data reliably, often with features like automatic replication, versioning, and encryption. It ensures that data remains available even if compute resources are terminated.
 
 **Relation to the KillerCoda Linux Environment:** In the KillerCoda environment, I identified the following storage resources:
-
 - **Total Disk Capacity:** 19G
 - **Used Space:** 5.4G
 - **Available Space:** 13G
@@ -44,7 +42,6 @@ These storage resources were identified using the `df -h` command, which display
 **Importance in Cloud Computing:** Networking enables resources to communicate with each other and with the internet. It secures data flow, manages traffic, and ensures high availability and low latency for applications. Networking also provides isolation through Virtual Private Clouds (VPCs) and enables hybrid cloud connectivity.
 
 **Relation to the KillerCoda Linux Environment:** In the KillerCoda environment, I identified the following networking resources:
-
 - **Hostname:** ubuntu
 - **IP Address (Primary):** 172.30.1.2
 - **IP Address (Docker):** 172.17.0.1
@@ -62,7 +59,6 @@ These networking resources were identified using commands such as `hostname`, `i
 **Importance in Cloud Computing:** An OS abstracts physical hardware and enables virtualization—the core of cloud computing. Without an OS, virtual machines and containers cannot function. Linux, in particular, supports nearly all cloud-native tools and orchestration platforms like Kubernetes, Docker, and Terraform, making it the preferred choice for cloud deployments.
 
 **Relation to the KillerCoda Linux Environment:** In the KillerCoda environment, I identified the following OS details:
-
 - **Operating System:** Ubuntu 24.04.4 LTS
 - **Kernel Version:** 6.8.0-138-generic
 
