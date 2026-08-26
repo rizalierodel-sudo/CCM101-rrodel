@@ -9,9 +9,6 @@
 5. How has your GitHub portfolio improved after completing this mission?
 
 ---
-
-## Answers:
-
 Completing this laboratory activity has given me a deeper understanding of cloud infrastructure and its core components. Among the four major components—compute, storage, networking, and operating system—I believe that compute resources are the most important. Compute resources, such as virtual machines and containers, serve as the "engine" of the cloud because they execute applications, process data, and run workloads. Without compute, even the best storage and networking would be useless since there would be nothing to process the data or deliver services to users. This is why cloud providers offer scalable compute options like EC2, Azure Virtual Machines, and Google Compute Engine to meet varying demands.
 
 Linux plays a vital role in supporting cloud computing. As an open-source, secure, and highly customizable operating system, Linux is the foundation of most cloud environments. Major cloud providers offer Linux-based virtual machines as their primary compute options, and Linux supports essential cloud-native technologies such as Docker, Kubernetes, and Terraform. Its stability, performance, and strong community support make it the preferred choice for cloud deployments. Without Linux, the cloud computing industry would not be as robust and scalable as it is today.
