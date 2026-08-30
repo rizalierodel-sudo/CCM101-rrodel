@@ -19,7 +19,7 @@
 
 ### 1. Which cloud provider offers the broadest range of services? Explain your answer.
 
-[AWS offers the broadest range of services among the three major cloud providers. As the first major cloud provider, AWS has had the longest time to develop its service portfolio and has the most mature ecosystem of third-party integrations and community resources [citation:3].](https://github.com/rizalierodel-sudo/CCM101-rrodel/blob/main/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/cloud-provider-comparison.md)
+I think AWS offers the broadest range of cloud services among the three providers. It has many different services for computing, storage, networking, databases, security, and other cloud needs, giving users more options depending on what they need.
 
 ### 2. Which cloud platform would you recommend for an organization that primarily uses Microsoft products? Why?
 
