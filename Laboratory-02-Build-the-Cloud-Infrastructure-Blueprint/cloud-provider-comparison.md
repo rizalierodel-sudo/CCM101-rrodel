@@ -2,12 +2,13 @@
 
 ## Service Comparison Table
 
-| **Infrastructure Component** | **AWS** | **Microsoft Azure** | **Google Cloud Platform (GCP)** |
-|---|---|---|---|
-| **Compute** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
-| **Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
-| **Networking** | Amazon VPC | Azure Virtual Network (VNet) | VPC Network |
-| **Identity and Access Management (IAM)** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **Infrastructure Component**             | **AWS**    | **Microsoft Azure**          | **Google Cloud Platform (GCP)** |
+| ---------------------------------------- | ---------- | ---------------------------- | ------------------------------- |
+| **Compute**                              | Amazon EC2 | Azure Virtual Machines       | Google Compute Engine           |
+| **Storage**                              | Amazon S3  | Azure Blob Storage           | Cloud Storage                   |
+| **Networking**                           | Amazon VPC | Azure Virtual Network (VNet) | VPC Network                     |
+| **Identity and Access Management (IAM)** | AWS IAM    | Microsoft Entra ID           | Cloud IAM                       |
+
 ---
 
 ## Guide Questions
@@ -18,7 +19,7 @@ I think AWS offers the broadest range of cloud services among the three provider
 
 ### 2. Which cloud platform would you recommend for an organization that primarily uses Microsoft products? Why?
 
-I would recommend Microsoft Azure because it works well with other Microsoft products and services. It can easily integrate with tools like Microsoft 365, Active Directory, and Visual Studio, which can make it easier for organizations already using Microsoft.s.
+I would recommend Microsoft Azure because it works well with other Microsoft products and services. It can easily integrate with tools like Microsoft 365, Active Directory, and Visual Studio, which can make it easier for organizations already using Microsoft products.
 
 ### 3. Which platform is widely recognized for Artificial Intelligence (AI), Machine Learning (ML), and Kubernetes services?
 
@@ -26,4 +27,4 @@ I would choose Google Cloud Platform (GCP) because it is well known for its AI, 
 
 ### 4. What similarities did you observe among the three cloud providers?
 
-I would choose Google Cloud Platform (GCP) because it is well known for its AI, machine learning, and Kubernetes services. It offers tools such as Vertex AI and Google Kubernetes Engine (GKE), which are useful for developing and managing these technologies.
+The three cloud providers offer similar core services such as computing, storage, networking, and identity and access management. Although their services have different names, they provide similar functions for building and managing cloud infrastructure.
