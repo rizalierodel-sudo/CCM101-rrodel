@@ -69,4 +69,3 @@ Through this laboratory activity, I identified and documented the following clou
 
 ---
 
-*This README was created as part of the Cloud Computing course (CCM101) Laboratory Activity 2.*
