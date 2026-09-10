@@ -31,7 +31,3 @@ Official Website: https://aws.amazon.com/
 
 Businesses use AWS for hosting websites and applications, storing and backing up data, managing databases, developing software, and analyzing data. It can also help businesses increase their resources when more users or workloads need to be handled.
 
-## Screenshot
-
-![AWS Official Homepage](aws-homepage.png)
-
