@@ -55,3 +55,13 @@ AWS is a suitable choice for the global e-commerce company because it has a larg
 * **Elastic Load Balancing** – for distributing traffic across multiple servers.
 * **Amazon RDS** – for managing the e-commerce database.
 
+## Multi-Cloud Decision Matrix
+
+| Business Requirement        | Recommended Platform  | Justification                                                                                                                                                                                         |
+| --------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | AWS                   | AWS offers flexible services that can be adjusted as the startup grows. It also has many options that can help a startup manage its resources based on its needs.                                     |
+| **Enterprise Organization** | AWS                   | AWS provides a wide range of services that can support different enterprise needs. Its global infrastructure and scalability make it suitable for large organizations.                                |
+| **Microsoft Environment**   | Microsoft Azure       | Azure is the best choice for organizations that already use Microsoft technologies. It works well with products such as Windows Server, Microsoft 365, and Microsoft Entra ID.                        |
+| **AI / Machine Learning**   | Google Cloud Platform | Google Cloud provides strong tools for Artificial Intelligence and Machine Learning. Services such as Vertex AI can help organizations develop and manage AI and ML applications.                     |
+| **Kubernetes Deployment**   | Google Cloud Platform | Google Cloud is a strong choice for Kubernetes deployment because it provides Google Kubernetes Engine (GKE). GKE helps organizations deploy and manage containerized applications.                   |
+| **Global Web Application**  | AWS                   | AWS has a large global infrastructure that can support web applications used by customers in different parts of the world. Its services can also help applications handle changing levels of traffic. |
