@@ -1,1 +1,11 @@
+# Mission 8 Reflection: The Cloud Security Engineer
 
+During this laboratory activity, I learned how a host-based firewall helps protect a server even if the network's main security is breached. It adds another layer of protection by controlling incoming and outgoing connections directly on the server. Through UFW, I learned that we can allow only the connections needed by the system and block unnecessary traffic. This showed me that server security should not depend on only one layer of protection.
+
+Managing open network ports is also important because each open port can become a possible entry point for attackers. If unnecessary ports are left open, attackers may find running services that they can try to access or exploit. In this activity, I allowed SSH on port 22 and web traffic on port 8080 while setting the default incoming policy to deny. This helped me understand why we should open only the ports required for the server to work properly.
+
+In a real enterprise environment, leaving a database port like 3306 for MySQL open to the public internet is dangerous because unauthorized users may attempt to access the database. If the database is not properly secured, sensitive information could be exposed, changed, or stolen. Companies should restrict database access to trusted servers and authorized users instead of allowing connections from anywhere. This can help protect important business and customer information.
+
+Completing this mission changed my perspective because I realized that a server can become vulnerable when its security settings are not configured properly. Even if an application works correctly, it does not automatically mean that the server is secure. I also learned that small steps, such as checking open ports and configuring firewall rules, can make a difference in reducing security risks.
+
+With eight completed missions, I feel that my GitHub portfolio is becoming more organized and complete. Each laboratory activity helped me learn different cloud computing skills, from deploying applications to managing server security. I can also use my repository to review the commands I practiced and show my progress as an IT student. Overall, this mission taught me to be more careful when managing servers and to consider security as an important part of every deployment.
