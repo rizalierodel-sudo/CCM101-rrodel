@@ -33,7 +33,4 @@ env EDITOR=nano crontab -e
 - Scheduling recurring tasks using Cron.
 - Documenting technical work using Markdown and GitHub.
 
-## Screenshots
 
-- `screenshots/script-execution.png`
-- `screenshots/cron-schedule.png`
